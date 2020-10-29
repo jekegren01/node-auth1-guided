@@ -16,7 +16,6 @@ Guided project for **Node Auth 1** Module.
 
 Please follow along as the instructor adds authentication to the API.
 
-
 ## Notes
 
 -hashing algorithoms
