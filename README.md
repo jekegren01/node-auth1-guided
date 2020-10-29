@@ -15,3 +15,11 @@ Guided project for **Node Auth 1** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor adds authentication to the API.
+
+
+## Notes
+
+-hashing algorithoms
+-mb5
+-shah1
+-bcrypt
